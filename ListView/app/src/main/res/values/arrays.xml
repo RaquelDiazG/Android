@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datos">
+        <item>Elemento1</item>
+        <item>Elemento2</item>
+        <item>Elemento3</item>
+        <item>Elemento4</item>
+        <item>Elemento5</item>
+        <item>Elemento6</item>
+        <item>Elemento7</item>
+        <item>Elemento8</item>
+        <item>Elemento9</item>
+        <item>Elemento10</item>
+    </string-array>
+</resources>
